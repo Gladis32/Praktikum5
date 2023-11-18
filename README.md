@@ -8,7 +8,7 @@
 # Tugas Latihan
 
 ## Membuat list dengan 5 elemen
-![Alt text](image-1.png) ![alt text](image-1.png?raw=true)
+![Alt text](image-1.png) 
 
 ### #Akses List
 * list1 = ["2", "5", "9", "10", "7"]: Membuat sebuah list dengan nama list1 yang berisi lima elemen, yaitu string "2", "5", "9", "10", dan "7".
